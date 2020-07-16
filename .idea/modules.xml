@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GeneralScan.iml" filepath="$PROJECT_DIR$/GeneralScan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/GeneralScan-app.iml" filepath="$PROJECT_DIR$/app/GeneralScan-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scanlib/scanlib.iml" filepath="$PROJECT_DIR$/scanlib/scanlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiaoxilib-GeneralScan.iml" filepath="$PROJECT_DIR$/xiaoxilib-GeneralScan.iml" />
+    </modules>
+  </component>
+</project>
